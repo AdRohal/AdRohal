@@ -7,4 +7,4 @@
 - 📫 How to reach me :
   Feel free to contact me via email at kradamrohal@hotmail.com or connect with me on LinkedIn at [Adam Rohal] (https://www.linkedin.com/in/adam-rohal-30884520a/). I'm always open to discussing new opportunities and partnerships in the world of software development. Let's connect and make great things happen! 💻🚀 
   
-![image]([./images/Cover_Platform.png](https://images.app.goo.gl/deTXKwMugzxySdgC6)https://images.app.goo.gl/deTXKwMugzxySdgC6)
+![image](https://images.app.goo.gl/deTXKwMugzxySdgC6)
