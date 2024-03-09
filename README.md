@@ -12,8 +12,7 @@
   <img src="https://img.shields.io/badge/Facebook-20BEFF?&style=for-the-badge&logo=facebook&logoColor=white" alt="alsiam"  />
   </a> 
 </p>
-<br />
-
+<br/>
 <!-- About Section -->
  # About me
 
@@ -29,8 +28,6 @@
  📧 &emsp; Reach me anytime: kradamrohal@hotmail.com<br/><br/>
 
 </p>
-
-<br/>
 
 # Use To Code
 
