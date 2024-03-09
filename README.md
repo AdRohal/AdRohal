@@ -1,8 +1,3 @@
-- 👋 Hi, I’m @AdRohal
-- 👀 I’m interested in C#, Phyton, Java, React.js " I did already finish C and Java and Python(i'm in intermediate level now) "
-- 🌱 I’m currently learning Python & ML.
-- 💞️ I’m looking to collaborate on full-stack software projects that leverage my skills in both front-end and back-end development.
-
 <p align="center">
  <a href="https://www.linkedin.com/in/adam-rohal-30884520a/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="alsiam"/>
@@ -21,7 +16,11 @@
 
 <!-- About Section -->
  # About me
- 
+
+ - 👋 Hi, I’m @AdRohal
+- 👀 I’m interested in C#, Phyton, Java, React.js " I did already finish C and Java and Python(i'm in intermediate level now) "
+- 🌱 I’m currently learning Python & ML.
+- 💞️ I’m looking to collaborate on full-stack software projects that leverage my skills in both front-end and back-end development.
 <p>
  <img align="right" width="350" src="/assets/programmer.gif" alt="Coding gif" />
   
@@ -32,7 +31,8 @@
 </p>
 
 <br/>
-## Use To Code
+
+# Use To Code
 
    <a href="https://www.typescriptlang.org/" title="C#"><img src="https://github.com/get-icon/geticon/raw/master/icons/c-sharp.svg" alt="C#" width="21px" height="21px"></a>
    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" title="JavaScript"><img src="https://github.com/get-icon/geticon/raw/master/icons/javascript.svg" alt="JavaScript" width="21px" height="21px"></a>
