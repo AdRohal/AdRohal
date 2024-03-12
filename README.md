@@ -12,7 +12,6 @@
   <img src="https://img.shields.io/badge/Facebook-20BEFF?&style=for-the-badge&logo=facebook&logoColor=white" alt="alsiam"  />
   </a> 
 </p>
-<br/>
 
 <!-- About Section -->
  # About me
