@@ -53,5 +53,6 @@
    <a href="https://www.adobe.com/products/illustrator.html" title="Adobe Illustrator"><img src="https://github.com/get-icon/geticon/raw/master/icons/adobe-illustrator.svg" alt="Adobe Illustrator" width="21px" height="21px"></a>
 <br/>
 # 🏆 GitHub Trophies 
-https://github-profile-trophy.vercel.app/?username=AdRohal&margin-w=15
+![](https://github-profile-trophy.vercel.app/?username=AdRohal&margin-w=15)
+![](https://github-profile-trophy.vercel.app/?username=AdRohal&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 ![image](https://online.maryville.edu/wp-content/uploads/sites/97/2023/09/pc-data-science.jpg)
