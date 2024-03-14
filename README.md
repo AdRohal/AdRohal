@@ -26,6 +26,7 @@
  ✌️ &emsp; Enjoy to do programming and sharing knowledge <br/><br/>
  ❤️ &emsp; Love to writing code and learning new features<br/><br/>
  📧 &emsp; Reach me anytime: kradamrohal@hotmail.com<br/><br/>
+ [![](https://visitcount.itsvg.in/api?id=AdRohal&label=Profile%20Views&icon=0&pretty=true)](https://visitcount.itsvg.in)
 
 </p>
 
@@ -58,5 +59,3 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 ## 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=AdRohal&limit=5&theme=dark&combine_all_yearly_contributions=true)
-<br/>
-[![](https://visitcount.itsvg.in/api?id=AdRohal&label=Profile%20Views&icon=0&pretty=true)](https://visitcount.itsvg.in)
