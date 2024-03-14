@@ -54,5 +54,9 @@
 <br/>
 # 🏆 GitHub Trophies 
 ![](https://github-profile-trophy.vercel.app/?username=AdRohal&margin-w=15)
-![](https://github-profile-trophy.vercel.app/?username=AdRohal&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+## ✍️ Motivation
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+## 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Rohal004&limit=5&theme=dark&combine_all_yearly_contributions=true)
 ![image](https://online.maryville.edu/wp-content/uploads/sites/97/2023/09/pc-data-science.jpg)
+[![](https://visitcount.itsvg.in/api?id=AdRohal&label=Profile%20Views&icon=0&pretty=true)](https://visitcount.itsvg.in)
