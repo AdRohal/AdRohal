@@ -26,7 +26,6 @@
  ❤️ &emsp; Love to writing code and learning new features<br/><br/>
  📧 &emsp; Reach me anytime: kradamrohal@hotmail.com<br/><br/>
  [![](https://visitcount.itsvg.in/api?id=AdRohal&label=Profile%20Views&icon=0&pretty=true)](https://visitcount.itsvg.in)
-
 </p>
 
 # Use To Code
