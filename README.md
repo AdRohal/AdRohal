@@ -3,7 +3,7 @@
 
  - 👋 Hi, I’m @AdRohal
 - 👀 I’m interested in Full Stack Development, including front-end and back-end technologies with proficiency in C#, Python, Java, HTML, CSS, and JavaScript.
-- 🌱 I’m currently learning Python & DL,ML.
+- 🌱 I’m currently learning Python & DL, ASP.net Core.
 - 💞️ I’m looking to collaborate on full-stack software projects that leverage my skills in both front-end and back-end development.
 <p>
   
