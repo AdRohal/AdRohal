@@ -1,9 +1,12 @@
+<p align="center">
+![Motivation Twitter Cover](https://github.com/AdRohal/AdRohal/blob/main/Motivation%20Twitter%20Cover.png)
+</p>
 <!-- About Section -->
  # About me 
 
- - 👋 Hi, I’m @AdRohal
-- 👀 I’m interested in Full Stack Development, including front-end and back-end technologies with proficiency in C#, Python, Java, HTML, CSS, and JavaScript.
-- 🌱 I’m currently learning Python & DL, ASP.net Core.
+ - 👋 Hi, I’m Adam Rohal
+- 👀 I’m interested in Software Engineering, Full Stack Development, including front-end and back-end technologies with proficiency in C, C# , .NET , Python, Java, PHP, Laravel, HTML, CSS, and JavaScript.
+- 🌱 I’m currently learning DL & DA With Python, ASP.net Core.
 - 💞️ I’m looking to collaborate on full-stack software projects that leverage my skills in both front-end and back-end development.
 <p>
   
@@ -26,6 +29,7 @@
   <img src="https://img.shields.io/badge/Facebook-20BEFF?&style=for-the-badge&logo=facebook&logoColor=white" alt="AdRohal"  />
   </a> 
 </p>
+
 # Use To Code
 
    <a href="https://www.typescriptlang.org/" title="C#"><img src="https://github.com/get-icon/geticon/raw/master/icons/c-sharp.svg" alt="C#" width="21px" height="21px"></a>
@@ -50,9 +54,11 @@
    <a href="https://www.adobe.com/products/illustrator.html" title="Adobe Illustrator"><img src="https://github.com/get-icon/geticon/raw/master/icons/adobe-illustrator.svg" alt="Adobe Illustrator" width="21px" height="21px"></a>
 <br/>
 # 🏆 GitHub Trophies 
+<p align="center">
  ![](https://github-profile-trophy.vercel.app/?username=AdRohal&margin-w=15)
+</p>
 
 # ✍️ Motivation
+<p align="center">
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-# 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=AdRohal&limit=5&theme=dark&combine_all_yearly_contributions=true)
+</p>
