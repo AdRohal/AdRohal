@@ -1,6 +1,4 @@
-<p align="center">
 ![Motivation Twitter Cover](https://github.com/AdRohal/AdRohal/blob/main/Motivation%20Twitter%20Cover.png)
-</p>
 <!-- About Section -->
  # About me 
 
@@ -9,11 +7,6 @@
 - 🌱 I’m currently learning DL & DA With Python, ASP.net Core.
 - 💞️ I’m looking to collaborate on full-stack software projects that leverage my skills in both front-end and back-end development.
 <p>
-  
- ✌️ &emsp; Enjoy to do programming and sharing knowledge <br/><br/>
- ❤️ &emsp; Love to writing code and learning new features<br/><br/>
- 📧 &emsp; Reach me anytime: kradamrohal@hotmail.com<br/><br/>
- [![](https://visitcount.itsvg.in/api?id=AdRohal&label=Profile%20Views&icon=0&pretty=true)](https://visitcount.itsvg.in)
 </p>
 <p align="center">
  <a href="https://www.linkedin.com/in/adam-rohal-30884520a/" target="_blank">
@@ -29,9 +22,10 @@
   <img src="https://img.shields.io/badge/Facebook-20BEFF?&style=for-the-badge&logo=facebook&logoColor=white" alt="AdRohal"  />
   </a> 
 </p>
+ 📧 &emsp; Reach me anytime: kradamrohal@hotmail.com<br/><br/>
+ [![](https://visitcount.itsvg.in/api?id=AdRohal&label=Profile%20Views&icon=0&pretty=true)](https://visitcount.itsvg.in)
 
 # Use To Code
-
    <a href="https://www.typescriptlang.org/" title="C#"><img src="https://github.com/get-icon/geticon/raw/master/icons/c-sharp.svg" alt="C#" width="21px" height="21px"></a>
    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" title="JavaScript"><img src="https://github.com/get-icon/geticon/raw/master/icons/javascript.svg" alt="JavaScript" width="21px" height="21px"></a>
    <a href="https://reactjs.org/" title="React"><img src="https://github.com/get-icon/geticon/raw/master/icons/react.svg" alt="React" width="21px" height="21px"></a>
@@ -54,11 +48,7 @@
    <a href="https://www.adobe.com/products/illustrator.html" title="Adobe Illustrator"><img src="https://github.com/get-icon/geticon/raw/master/icons/adobe-illustrator.svg" alt="Adobe Illustrator" width="21px" height="21px"></a>
 <br/>
 # 🏆 GitHub Trophies 
-<p align="center">
  ![](https://github-profile-trophy.vercel.app/?username=AdRohal&margin-w=15)
-</p>
 
 # ✍️ Motivation
-<p align="center">
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-</p>
