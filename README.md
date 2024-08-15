@@ -26,8 +26,8 @@
  
  [![](https://visitcount.itsvg.in/api?id=AdRohal&label=Profile%20Views&icon=0&pretty=true)](https://visitcount.itsvg.in)
 
-# Use To Code
-   <a href="https://www.typescriptlang.org/" title="C#"><img src="https://github.com/get-icon/geticon/raw/master/icons/c-sharp.svg" alt="C#" width="21px" height="21px"></a>
+# Languages & Tools
+   <a title="C"><img src="./icons/C.svg" width="48"></a>
    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" title="JavaScript"><img src="https://github.com/get-icon/geticon/raw/master/icons/javascript.svg" alt="JavaScript" width="21px" height="21px"></a>
    <a href="https://reactjs.org/" title="React"><img src="https://github.com/get-icon/geticon/raw/master/icons/react.svg" alt="React" width="21px" height="21px"></a>
    <a href="https://www.w3.org/TR/CSS/" title="CSS3"><img src="https://github.com/get-icon/geticon/raw/master/icons/css-3.svg" alt="CSS3" width="21px" height="21px"></a>
