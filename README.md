@@ -29,10 +29,11 @@
 # Languages & Tools
    <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,dotnet,visualstudio,vscode,git,github,azure,eclipse,java,pycharm,py,opencv,figma,firebase,gcp,ubuntu,bash,postman,c,jquery,cpp,cmake,php,laravel,html,css,js,sqlite,mysql,npm,discord" />
+    <img src="https://skillicons.dev/icons?i=cs,dotnet,visualstudio,vscode,git,github,azure,eclipse,java,jquery,pycharm,py,opencv,figma,xd,firebase,gcp,ubuntu,bash,postman,powershell,c,cpp,cmake,php,laravel,html,css,js,bootstrap,postgres,sqlite,mysql,npm,discord,notion,apple&theme=light" />
   </a>
 </p>
 <br/>
+
 # 🏆 GitHub Trophies 
  ![](https://github-profile-trophy.vercel.app/?username=AdRohal&margin-w=15)
 
