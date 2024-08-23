@@ -32,4 +32,3 @@
     <img src="https://skillicons.dev/icons?i=cs,dotnet,visualstudio,vscode,git,github,azure,eclipse,java,jquery,pycharm,py,opencv,figma,xd,firebase,gcp,ubuntu,bash,postman,powershell,c,cpp,cmake,php,laravel,html,css,js,bootstrap,postgres,sqlite,mysql,npm,discord,notion,apple&theme=light" />
   </a>
 </p>
-<br/>
