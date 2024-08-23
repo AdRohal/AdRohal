@@ -33,9 +33,3 @@
   </a>
 </p>
 <br/>
-
-# 🏆 GitHub Trophies 
- ![](https://github-profile-trophy.vercel.app/?username=AdRohal&margin-w=15)
-
-# ✍️ Motivation
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
