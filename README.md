@@ -22,7 +22,7 @@
   <img src="https://img.shields.io/badge/Facebook-20BEFF?&style=for-the-badge&logo=facebook&logoColor=white" alt="AdRohal"  />
   </a> 
 </p>
- 📧&emsp; Reach me anytime: kradamrohal@hotmail.com<br/><br/>
+ 📧 Reach me anytime: kradamrohal@hotmail.com<br/><br/>
  
  [![](https://visitcount.itsvg.in/api?id=AdRohal&label=Profile%20Views&icon=0&pretty=true)](https://visitcount.itsvg.in)
 
