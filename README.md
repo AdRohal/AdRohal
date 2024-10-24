@@ -4,7 +4,7 @@
 
  - 👋 Hi, I’m Adam Rohal
 - 👀 I’m interested in Software Engineering, Full Stack Development, including front-end and back-end technologies with proficiency in C, C# , .NET , Python, Java, PHP, Laravel, HTML, CSS, and JavaScript.
-- 🌱 I’m currently learning DL & DA With Python, ASP.net Core.
+- 🌱 I’m currently learning React.js, Spring Boot, and Flask for Python, alongside ASP.NET Core.
 - 💞️ I’m looking to collaborate on full-stack software projects that leverage my skills in both front-end and back-end development.
 <p>
 </p>
