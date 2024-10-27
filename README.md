@@ -29,6 +29,6 @@
 # Languages & Tools
    <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,dotnet,visualstudio,vscode,git,github,azure,eclipse,java,jquery,pycharm,py,opencv,figma,xd,firebase,gcp,ubuntu,bash,postman,powershell,c,cpp,cmake,php,laravel,react,html,css,js,bootstrap,postgres,sqlite,mysql,npm,discord,notion,apple&theme=light" />
+    <img src="https://skillicons.dev/icons?i=cs,dotnet,visualstudio,vscode,pycharm,clion,idea,phpstorm,rider,gamemakerstudio,heroku,git,github,azure,eclipse,java,jquery,py,opencv,figma,xd,ai,blender,firebase,gcp,ubuntu,linux,bash,postman,powershell,c,cpp,cmake,php,laravel,nextjs,vite,vue,react,html,css,less,sass,js,bootstrap,postgres,sqlite,mysql,mongodb,nodejs,npm,gmail,discord,notion,apple,linkedin&theme=light" />
   </a>
 </p>
