@@ -24,6 +24,7 @@
   </a> 
 </p>
  📧 Reach me anytime: kradamrohal@hotmail.com<br/>
+
 # Languages & Tools
    <p align="center">
   <a href="https://skillicons.dev">
