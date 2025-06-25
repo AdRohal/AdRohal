@@ -23,7 +23,7 @@
   <img src="https://img.shields.io/badge/Facebook-20BEFF?&style=for-the-badge&logo=facebook&logoColor=white" alt="AdRohal"  />
   </a> 
 </p>
- 📧 Reach me anytime: kradamrohal@hotmail.com<br/>
+ 📧 Reach me anytime: Rohal.dev@hotmail.com<br/>
 
 # Languages & Tools
    <p align="center">
